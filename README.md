@@ -4,9 +4,12 @@
 
 ### Backend, FullStack Developer
 
+- 다양한 기술에 관심이 많은 백엔드/풀스택 개발자입니다.
+
+
 ### Skills
 
-**Languages**<br>
+**Languages** :<br>
 ![Java](https://img.shields.io/badge/Java-gray?logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -15,11 +18,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
 
 
-
-
-
-
-**Frameworks**<br>
+**Frameworks** :<br>
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?logo=vuedotjs&logoColor=white)
@@ -31,8 +30,7 @@
 ![Tibero](https://img.shields.io/badge/Tibero-gray?logoColor=white)
 
 
-
-**Infra**<br>
+**Infra** :<br>
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
@@ -44,7 +42,7 @@
 ![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white)
 
 
-**Tools**<br>
+**Tools** :<br>
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-181717?logo=github&logoColor=white)
 ![FireBase](https://img.shields.io/badge/FireBase-DD2C00?logo=firebase&logoColor=white)
@@ -57,7 +55,7 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=eclipseide&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-40AEF0?logoColor=white)
 
-**Interests**<br>
+**Interests** :<br>
 ![SpringBatch](https://img.shields.io/badge/SpringBatch-6DB33F?logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
@@ -67,13 +65,6 @@
 ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?logo=elasticsearch&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?logo=kibana&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-
-
-
-
-
-
-
 
 
 <br>
