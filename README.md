@@ -37,6 +37,8 @@
 ![RDS](https://img.shields.io/badge/RDS-527FFF?logo=amazonrds&logoColor=white)
 ![ELB](https://img.shields.io/badge/ELB-8C4FFF?logo=awselasticloadbalancing&logoColor=white)
 ![Lambda](https://img.shields.io/badge/Lambda-FF9900?logo=awslambda&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white)
+
 
 **Tools**<br>
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
@@ -50,7 +52,11 @@
 ![VSCode](https://img.shields.io/badge/VSCode-40AEF0?logoColor=white)
 
 
+<br>
 
+![klolarion's GitHub stats](https://github-readme-stats.vercel.app/api?username=klolarion&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klolarion&layout=donut)](https://github.com/klolarion/github-readme-stats)
 
 
 
