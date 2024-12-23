@@ -39,10 +39,13 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![EC2](https://img.shields.io/badge/EC2-FF9900?logo=amazonec2&logoColor=white)
 ![RDS](https://img.shields.io/badge/RDS-527FFF?logo=amazonrds&logoColor=white)
+![DDB](https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?logo=amazons3&logoColor=white)
 ![ECR](https://img.shields.io/badge/ECR-FF9900?logoColor=white)
 ![ELB](https://img.shields.io/badge/ELB-8C4FFF?logo=awselasticloadbalancing&logoColor=white)
 ![Lambda](https://img.shields.io/badge/Lambda-FF9900?logo=awslambda&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white)
+![HashicorpVault](https://img.shields.io/badge/HashicorpVault-FFEC6E?logo=vault&logoColor=black)
 
 
 **Tools** :<br>
