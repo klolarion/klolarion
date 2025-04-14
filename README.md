@@ -1,9 +1,5 @@
-![CapsuleRender](https://capsule-render.vercel.app/api?type=soft&height=120&color=gradient&text=Hi,%20I'm%20JaeKeun&reversal=true&animation=fadeIn&strokeWidth=0&rotate=0&fontSize=40)
-<br>
 
-### Backend, FullStack Developer
-
-- 다양한 기술에 관심이 많은 백엔드/풀스택 개발자입니다.
+## TPM을 준비하는 Backend + DevOps 개발자 입니다.
 
 
 ### Skills
@@ -26,7 +22,6 @@
 ![Redis](https://img.shields.io/badge/Redis-FF4438?logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
-![Tibero](https://img.shields.io/badge/Tibero-gray?logoColor=white)
 
 
 **Infra** :<br>
@@ -54,6 +49,8 @@
 **Interests** :<br>
 ![SpringBatch](https://img.shields.io/badge/SpringBatch-6DB33F?logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white)
+![GoLang](https://img.shields.io/badge/GoLang-00ADD8?logo=go&logoColor=white)
+![AirFlow](https://img.shields.io/badge/AirFlow-017CEE?logo=apacheairflow&logoColor=white)
 
 
 
