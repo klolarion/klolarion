@@ -1,5 +1,5 @@
 
-## TPM을 준비하는 Backend + DevOps 개발자 입니다.
+## TPM을 준비하는 FullStack + DevOps 개발자 입니다.
 
 
 ### Skills
