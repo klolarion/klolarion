@@ -36,8 +36,6 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
-![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?logo=elasticsearch&logoColor=white)
-![Kibana](https://img.shields.io/badge/Kibana-005571?logo=kibana&logoColor=white)
 
 
 **Tools** :<br>
