@@ -9,7 +9,3 @@
 
 
 
-## 개인 프로젝트 Repo  : [Link](https://github.com/orgs/AlmagestService/repositories)
-
-
-
