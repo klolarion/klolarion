@@ -17,11 +17,13 @@ AI가 틀리거나 멈췄을 때의 동작을 먼저 설계하고,<br>
 
 - [**K-Watch**](https://github.com/klolarion/k_watch) — Kubernetes 리소스 간 연결과 Pod 상태 변화를 한눈에 보는 읽기 전용 대시보드
 - [**agent_skills / deploy-check**](https://github.com/klolarion/agent_skills) — AI·에이전트 서비스의 배포 준비 상태를 `file:line` 근거로 점검하는 에이전트 스킬
+- [**noomi-alpha 0.9B**](https://huggingface.co/Broadwave) — 토크나이저 비교를 위해 같은 조건으로 처음부터 학습한 한국어 모델 2종(BPE · Unigram)
 
 ### Now
 
 - 사내 업무 시스템과 연결된 AI 에이전트·RAG 개발 및 운영
-- 한국어 소형 LLM 사전학습(Pre-training)
+- 한국어 sLLM 사전학습(Pre-training)
+- LoRA 파인튜닝과 출력 검증
 
 ---
 
@@ -29,6 +31,8 @@ AI가 틀리거나 멈췄을 때의 동작을 먼저 설계하고,<br>
 
 ![Java / Spring](https://img.shields.io/badge/Java%20%2F%20Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Python / FastAPI](https://img.shields.io/badge/Python%20%2F%20FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat)
 ![vLLM](https://img.shields.io/badge/vLLM-3B82F6?style=flat)
