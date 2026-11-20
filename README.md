@@ -10,7 +10,7 @@ AI가 틀리거나 멈췄을 때의 동작을 먼저 설계하고,<br>
 
 ### Services
 
-- **봄넷** — 농업 필지 분석 및 작물 추천 앱 · [App Store](https://apps.apple.com/kr/app/%EB%B4%84%EB%84%B7/id6761255410)
+- **봄넷** — 농업 필지 분석·작물 추천, 작물별 도매 시세와 12개월 가격 그래프 앱 · [App Store](https://apps.apple.com/kr/app/%EB%B4%84%EB%84%B7/id6761255410)
 - **PNU 변환기** — 지번·도로명 주소를 필지고유번호(PNU)로 변환하는 API · [Web](https://pnu.almagest.io/)
 
 ### Work
@@ -21,8 +21,8 @@ AI가 틀리거나 멈췄을 때의 동작을 먼저 설계하고,<br>
 
 ### Now
 
-- 사내 업무 시스템과 연결된 AI 에이전트·RAG 개발 및 운영
-- 한국어 sLLM 사전학습(Pre-training)
+- 사내 업무 시스템과 연결된 통합 에이전트·MCP 서버·RAG 개발 및 운영
+- 한국어 sLLM(2B) 사전학습(Pre-training)
 - LoRA 파인튜닝과 출력 검증
 
 ---
